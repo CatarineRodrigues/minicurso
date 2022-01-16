@@ -38,3 +38,10 @@ main > section button {
     padding: 9px 23px;
     text-transform: uppercase;
 }
+
+#detalhes-container {
+    font-weight: bold;
+    height: 30px;
+    list-style-type: none;
+    width: 90%;
+}
